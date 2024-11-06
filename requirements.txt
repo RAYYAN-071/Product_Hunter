@@ -1,0 +1,4 @@
+pytrends
+requests
+matplotlib
+groq
