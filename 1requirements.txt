@@ -1,0 +1,6 @@
+pytrends
+streamlit
+requests
+matplotlib
+beautifulsoup4
+groq
